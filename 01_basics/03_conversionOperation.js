@@ -11,8 +11,16 @@ let isLoggdIn = false
 //console.log(typeof score);
 
 
-let valueInNumber = Number(score)
+//let valueInNumber = Number(score)
 
 //console.log(typeof valueInNumber);
 
 //console.log(valueInNumber);
+
+let myYoutubeName = "ashutoshyt"
+ 
+let anotherName = myYoutubeName
+anotherName = "ashuyt"
+ 
+console.log(myYoutubeName)
+console.log(anotherName)
